@@ -1,0 +1,16 @@
+<?xml-stylesheet href="stylesheet.css" version="1.0" encoding="utf-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<title>yes this is the sitemap and i dont know xml so this is what i learnd in 30 minutes</title>
+<url>
+  <loc>https://it-task.glitch.me/</loc>
+  <lastmod>2019-05-29T05:56:59+00:00</lastmod>
+    </url>
+<url>
+  <loc>https://it-task.glitch.me/home.html</loc>
+  <lastmod>2019-05-29T05:56:59+00:00</lastmod>
+</url>
+<url>
+  <loc>https://it-task.glitch.me/resorces.html</loc>
+  <lastmod>2019-05-28T17:19:10+00:00</lastmod>
+</url>
+</urlset>
