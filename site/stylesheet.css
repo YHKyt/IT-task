@@ -4,7 +4,6 @@
     height: 0; 
     overflow: hidden;
     width: 100%;
-    
 } 
 .iframe-container iframe { 
     position: absolute; 
@@ -14,6 +13,12 @@
     height: 100%; 
     max-width: 650px;
     max-height: 400px;
+}
+
+img.image2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1{
