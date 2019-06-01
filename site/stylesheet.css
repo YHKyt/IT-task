@@ -1,3 +1,21 @@
+.iframe-container { 
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden;
+    width: 100%;
+    
+} 
+.iframe-container iframe { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    max-width: 650px;
+    max-height: 400px;
+}
+
 h1{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -6,7 +24,31 @@ h1{
     margin-top: 250px; 
 }
 
+h1.asdf {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 60px;
+    margin-top: 10px; 
+}
+p {
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;    
+}
+
 #div1{
+  	border-color: #52565e;
+    border-style: solid;
+  	border-width: 6px;
+  	border-radius: 20px;
+    padding: 10px;
+    padding-buttom: 10px;
+    width: 90%;
+    position: static;
+    margin: auto;
+}
+#div2{
   	border-color: #52565e;
     border-style: solid;
   	border-width: 6px;
